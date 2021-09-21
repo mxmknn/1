@@ -1,6 +1,7 @@
 # 1
 <html>
     <body>
+        <link rel="stylesheet" href="style.css" type="text/css"/>
         <header class="cuganskie_fokusu">
             <img  id ="logo" src="https://mars.algoritmika.org/uploads/2020/12/logo_0_1607675596.svg" height="100px"/>
             <b>Внимание! Сезонные скидки -200% </b><a href="#discount" class="ukrainskaya_bimba">Подробнее</a>
